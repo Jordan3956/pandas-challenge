@@ -1,5 +1,11 @@
 # pandas-challenge analysis 
 
+In this challenge I took two sets of data "School data" and "Student data" and looked into each one in different ways as well as merging them together to analyze different things. I was able to analyze things about the schools such as "Total Budget" , "School type", "School Size" and see if there was any correlation between that information and the student information such as "% Overall passing" "Average Reading Score" "% Passing Math", as well as many other interesting statistics and information. After analyzing the data I found a few interesting connections in the data and drew a few conclusions as well....
+
+
+
+
+
 Overall the schools with a "Higher spending range(Per Student)" have a substantially higher "% Overall Passing" at 90% at the highest spending and 81% at the second highest spending. The lowest and second lowest spending range per student resulted in a "% Overall Passing" of 62% and 53%.
 
 The larger schools have a much lower "% Overall Passing" at 58% as opposed to small and medium which have a "% Overall Passing" of 89 and 90 respectfully.
